@@ -1,5 +1,7 @@
 # Summary
 
+[![Join the chat at https://gitter.im/venting-silo/Lobby](https://badges.gitter.im/venting-silo/Lobby.svg)](https://gitter.im/venting-silo/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Silo represents a different take on container orchestration. At least, that's the intention, it's early days.
 Below sets out the intended vision and the current plans to date. Silo and any associated repositories are open source, community driven development is our goal.
 
